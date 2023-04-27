@@ -1,0 +1,12 @@
+table, th, td{
+    border: 1px solid rgb(0, 0, 0);
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}   
+
+body{
+    background-image: url(fondos-2.jpg);
+}
